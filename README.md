@@ -14,3 +14,10 @@ Welcome to my data analysis potfolio. Here are the projects I've worked on.
 | Project Link | Description | Dashboard Link | 
 |---|---|---|
 |🌐 [Covid Dashboard](https://github.com/justin1721/Covid-Visualization/blob/main/README.md) | Created four tables on SQL and copied the data into Tableau. Investigated Covid data from January 2020 to February 2024 and visualized key insights, including total cases, total deaths, and death percentage per country and continent. | [Dashboard](https://public.tableau.com/app/profile/justin.mcauliffe/viz/Covid_Project_17091625388030/Dashboard1?publish=yes) |
+
+---
+
+# Python
+| Project Link | Area | Description | Libraries | 
+|---|---|---|---|
+| 🎥 [Movie Analysis](https://github.com/justin1721/python_scripts/blob/main/movie_project.ipynb) | EDA | Explored top-rated movies globally to figure out what factors contribute to higher gross revenue | Pandas, Seaborn |
